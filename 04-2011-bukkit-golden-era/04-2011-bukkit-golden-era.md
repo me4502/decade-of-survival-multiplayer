@@ -1,6 +1,6 @@
-## 2011 - The Golden Era of Bukkit
+# 2011 - The Golden Era of Bukkit
 
-### The launch of Bukkit
+## The launch of Bukkit
 
 As 2011 kicked off, the Bukkit project was officially released with an announcement thread on the [Minecraft Forums on the 1st of January](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-tools/1260642-introducing-bukkit-a-new-minecraft-server-mod). Bukkit was designed from the ground up to address many of the issues that plagued hMod users and plugin developers. It was intended to be significantly easier to develop plugins for, as well as to run much faster. There were a few features that were not brought over from hMod however, such as inbuilt admin commands and a permissions system. Overall the community reaction to the announcement was highly positive, with most respondents mostly wanting to know when their favourite plugins such as CraftBook or Runecraft were moving over.
 
@@ -14,21 +14,21 @@ While highly active early on, sk89q did not stay with the Bukkit team for long. 
 
 In the early days, community members were involved in many meaningful discussions around how the project should run. One such debate was around which software licenses Bukkit and CraftBukkit would use. Bukkit was licensed under GPL and CraftBukkit under LGPL. While the license was noted to not be valid due to the [intent of usage with proprietary code](https://bukkit.org/threads/what-license-is-the-bukkit-project-under.154/page-2#post-2824), this did have the implication that all plugins built using the Bukkit API were required to be GPL. EvilSeph did state that the Bukkit team would never enforce the license. However, this does not prevent other Bukkit contributors from requiring enforcement. To this day, the theory that all Bukkit plugins must be licensed under the GPL has never been tested in court.
 
-### CanaryMod
+## CanaryMod
 
 While most of the community switched to Bukkit, there was still a core group that remained faithful to the hMod platform. On the [3rd of March 2011](https://github.com/shadow386/CanaryMod/commit/38e01aee716ab6c513313eb8ad24905fa99217a5), shadow386 rebranded their hMod continuation fork to CanaryMod. CanaryMod improved on the API of hMod in many ways, rather than entirely starting over like the Bukkit project. CanaryMod also borrowed parts of the Bukkit API, leading it to partially resemble both hMod and Bukkit. The team also kept up a small number of plugins, generally forks of all of the original plugins but updated by different authors. The primary user of CanaryMod was the MinecraftOnline server, due to having started during the hMod era.
 
-### Dawn of the Proxies
+## Dawn of the Proxies
 
 On the [9th of January](https://github.com/Raphfrk/CraftProxy/commit/a36c2a552efd299044f2af28a7a4fa9a946d914a), Raphfrk made the first of their three proxies. And thus, CraftProxy, the first ever Minecraft server proxy was born. However, it functioned somewhat differently from what came after it. Its purpose was not to allow a player to switch between servers in-game like is typical of modern proxies, but instead to host multiple Minecraft servers on the same machine while still using the default port. For example, you could host both a creative.server.com, and survival.server.com from the same device, and it’d forward the user to the correct server based on what URL they use to connect. These still functioned as independent servers from the player’s perspective.
 
 Later, Raphfrk rewrote CraftProxy twice. First under the name CraftProxyLite and later CraftProxyLiter. These rewrites both improved performance and added new features, such as protocol compression. Both of these proxies still behaved in a similar manner to CraftProxy however, having a different purpose to modern proxies.
 
-### Griefer YouTube
+## Griefer YouTube
 
 As with any multiplayer video game, Minecraft servers were vulnerable to griefing, where someone enjoys intentionally annoying or disrupting other players rather than playing the game. In Minecraft, this primarily took the form of destroying terrain, builds, or targeting and killing players. Perhaps the most infamous of the griefers were Team Avolition, who uploaded their first Minecraft griefing video onto YouTube on the 9th of January 2011. They were most well-known for finding servers from Reddit, and griefing or trolling with a custom-made cheat client. Team Avolition quickly gained a cult following amongst a section of the community and inspired a wave of griefing YouTube channels and cheat client developers. They also sparked a feud with Reddit and became infamous for repeatedly griefing the NerdNu series of servers.
 
-### The Early Bukkit Plugins
+## The Early Bukkit Plugins
 
 Right after Bukkit’s launch, plugin developers were hard at work on creating new Bukkit plugins. Most of the large hMod plugins were quickly ported, including all the ones listed in this post. There was also a flood of new plugins, especially with many beginner developers feeling empowered by Bukkit’s simpler developer experience.
 
@@ -60,7 +60,7 @@ Due to the rapidly growing number of economy, permissions, and chat plugins, cer
 
 On the 14th of August 2011, the Buycraft service launched. Buycraft made it easy for server admins to charge real money for in-game content. Frequent use cases were access to plugins, chat perks, or in-game currency. The introduction of monetisation on Minecraft servers massively shifted the server landscape, making it now possible for server admins to profit off the servers they ran, or at least try to offset hosting costs. Since then, the Buycraft service has been renamed to Tebex. The Bukkit plugin itself was rewritten by Tux and is now known as BuycraftX, paying homage to the historical roots of the service as well as marking a new era of the plugin.
 
-### Server Lists
+## Server Lists
 
 Due to the growing surge in the number of Minecraft servers coming into 2011, several sites started to pop up to make it easier for players to find servers and for servers to advertise to players. Prior to this, servers were generally listed on Reddit or the Minecraft Forums. In early January of 2011, a server list known as [MineStatus.net](https://minestatus.net/) launched, making it the oldest Minecraft server list that is still running today. Other server lists such as [minecraft-server-list.com](https://minecraft-server-list.com/) and [MinecraftServers.org](https://minecraftservers.org/) followed shortly after.
 
@@ -70,46 +70,46 @@ Minestatus.net would go on to create two plugins that would set an example for h
 
 Minestatus.net also created another piece of foundational software for the server space, [MineQuery](http://web.archive.org/web/20110119001648/http://minestatus.net/minequery). MineQuery allowed external services such as websites to get information about a Minecraft server, such as whether it was online as well as current player counts and names. MineQuery later became redundant with the introduction of the query protocol to Minecraft 1.0, and the server list ping packet to Minecraft 1.3, integrating this functionality directly into Minecraft itself.
 
-### Economy Servers
+## Economy Servers
 
 Due to the capabilities provided by the wide selection of economy plugins and those that allowed charging in-game currency, servers were popping up that took the current “Survival+” game style but with an added economy and trading system. Generally, these servers would be survival servers with plugins such as CraftBook or MinecartMania to add more complex and varied gameplay, with an added dash of capitalism. Many of these servers also had a town system, such as with the plugin Towny. Players would earn enough money to build a town by working in other towns, or selling things they gathered and then employ newer players to do various tasks.
 
 The largest and longest-running Economy server was EcoCityCraft, which was launched on the 4th of April 2011 and is still running to this day. This server heavily influenced the economy game style.
 
-#### Prison Servers
+### Prison Servers
 
 The Economy server style also had numerous off-shoots, with the Prison style being one of the largest. Prison servers were styled around a prison with players roleplaying as a prisoner, with artificial constructed mines and other various ways to earn money to level up through different tiers of cell block. Further evolutions of the Prison game mode involved players eventually being able to buy their freedom and gain access to a normal Minecraft world, the ability for players to apply to be guards and confiscate contraband items, and the ability for players to buy a space they could build in from a prison cell to a large plot of land.
 
-### BukkitContrib
+## BukkitContrib
 
 Afforess started the BukkitContrib project on the [1st of May 2011](https://github.com/Nightgunner5/BukkitContrib/commit/eb22175c782c4dcae59908b59f12fe432d83d594). BukkitContrib was an extension to Bukkit that was installed as a plugin, which allowed plugin developers to create things beyond the limits of Bukkit. BukkitContrib also published a client mod, that when used would let plugins do things that generally would require mods. Plugins written with BukkitContrib could add new sounds, GUIs, and even give the impression of extra items and blocks using textures. None of these required installing any client mods beyond BukkitContrib, which was sent data from plugins by the servers that the player joined. A plugin that shows off what BukkitContrib was capable of is [Sprout](https://dev.bukkit.org/projects/sprout), which allows adding infinitely more crops to Minecraft.
 
 On the [1st of August 2011](https://bukkit.org/threads/dev-spoutplugin-unleash-the-flow-of-endless-possibilities-1-0-1-3-2.29259/), BukkitContrib relaunched as Spoutcraft due to Bukkit cracking down on the usage of the Bukkit name in other projects. Soon after, sk89q and lahwran planned to make a competitor to Spoutcraft. Designs were made for various systems, but the project never went anywhere. A few of the designed systems ended up making their way into the WorldEdit API.
 
-### Return of the Lightstone
+## Return of the Lightstone
 
 SpaceManiac started work on continuing Lightstone on the [4th of June 2011](https://github.com/GlowstoneMC/Glowstone/commit/6fe0dfbea37e0f9478de89c3b91b554bf4358b17), with plans to implement the Bukkit API and therefore allow Bukkit plugins. The project was named Glowstone, due to it being the new name for the Lightstone block which the original project was named after. Glowstone continued the goal of achieving a server without any Mojang code, and the project is still alive today.
 
-#### Spout
+### Spout
 
 A few months after the Glowstone project started up again, the Spoutcraft team abandoned Spoutcraft in favour of writing a custom server based on Glowstone. The team then rebranded again as Spout and forked Glowstone. Spout also had its own rewritten game client as well, and a plugin for the Spout server called Vanilla that allowed Minecraft clients to connect. Due to the extremely ambitious goals of the project, it never gained feature parity with Spoutcraft nor Minecraft and was eventually abandoned towards the end of 2013.
 
 Later in the year, on the [4th of October](https://github.com/cuberite/cuberite/commit/e0bae05ed4cea2095718b93e211eaae3d41e8dc4), the Cuberite project was started. Like Glowstone, Cuberite is also still around today. The goal of Cuberite was to offer a very high-performance game server, using a custom-written server in C++. Cuberite servers are mostly aimed at minigames that don’t require full conformance with Minecraft gameplay standards, and has its own API for making plugins.
 
-### MinecraftForge
+## MinecraftForge
 
 On [July 12th 2011](https://github.com/MinecraftForge/MinecraftForge/commit/999ef3817a7ddfd21043a69f8af5dcf2c028b945), SpaceToad started the MinecraftForge project. Minecraft Forge was a spiritual successor to Risugami’s Modloader and SDK’s ModloaderMP, allowing mods to easily be written and loaded on both the server and client. MinecraftForge became the go-to platform for running a server that used mods that added content such as blocks, items, or mobs. Due to how much easier it was to write mods that supported both the server and client on MinecraftForge, it became significantly more common for mods to support multiplayer. This led to a surge in Minecraft modpacks built specifically to play with friends. While MinecraftForge did not support Bukkit plugins, the modded Minecraft community had very different needs, making this less of a problem. MinecraftForge is still around today, run by LexManos and the rest of the MinecraftForge team.
 
-### Bukkit Matures
+## Bukkit Matures
 
 As the Bukkit project grew throughout 2011, a few issues had started to creep up. Permissions management in the Bukkit ecosystem was non-ideal, and the forums were outgrowing their usefulness as a place to download plugins.
 
-#### SuperPerms
+### SuperPerms
 
 Dinnerbone proposed a solution, a system in Bukkit for permissions that was colloquially known as SuperPerms (or sometimes DinnerPerms, referencing its creator). Not wanting to break the community-made permission plugins, the Bukkit permission system behaved similarly to a very cut down version of Vault, providing an official way for plugins to ask the installed permission plugin whether a player had a permission or not. This system, while widely used for permission checking now, was imperfect compared to Vault. Dinnerbone did not believe that plugins needed access to which groups a player was in, and instead suggested to use a `group.GroupName` permission check to assess group membership. Due to this decision being disagreed with by many permission plugin designers, plugins that relied on group names had to continue using Vault. Both Vault and WEPIF were updated to support the new system and kept around for the following years.
 
 As part of the SuperPerms launch, SpaceManiac also launched a new permissions plugin that implemented SuperPerms as an example. The new plugin, PermissionsBukkit, was started on the [2nd of July 2011](https://github.com/SpaceManiac/PermissionsBukkit/commit/27e82705b7fab75e76b7b7fb9b42e55b86992f40) and launched on the [17th of July](https://github.com/Bukkit/Bukkit/commit/914da8e887deaadb57be339aa2dbb78eca2742a4) alongside SuperPerms inclusion in Bukkit.
 
-#### BukkitDev
+### BukkitDev
 
 The Bukkit team still had to fix the growing problem with the plugin releases section of the forums, especially as their Fill plugin repository was nowhere to be seen. After discussing a partnership with Curse, the Bukkit team announced the launch of BukkitDev on the [25th of August 2011](https://dev.bukkit.org/news/644-welcome-to-bukkitdev). Initial reactions were mixed. Many were positive about the capabilities of the new system, while others were reluctant to change and cautious about Curse. A few fears were raised regarding how Curse has treated other Minecraft community sites, as well as how the bukkit.org domain name registration was transferred to Curse. Over time, all active plugins migrated over from the Bukkit forums to BukkitDev, and the plugin releases section of the forums was locked.

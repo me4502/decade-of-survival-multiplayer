@@ -1,16 +1,16 @@
-## 2013 - Rise of the Network
+# 2013 - Rise of the Network
 
-### Spigot
+## Spigot
 
 On the [15th of January 2013](https://github.com/PaperMC/Paper/commit/622229778428e822be7c97d9c5f08ddb6281d97f), md_5 rebranded the CraftBukkit-- project to Spigot. The Spigot project, while still partnered with EcoCityCraft, was no longer a project owned and developed by EcoCityCraft but its own separate thing. As Spigot started cementing themselves as a real Bukkit alternative, the community began to split between the Bukkit and Spigot forums. Spigot also added a resources subsection to their forums, to allow Spigot-only plugins to be released due to new BukkitDev rules against plugins that couldn’t run on CraftBukkit. Since launch, Spigot has remained a major player in the server software space.
 
-### Super Networks
+## Super Networks
 
 Mineplex was a server network that launched on the [24th of January 2013](https://en.wikipedia.org/wiki/Mineplex). It was the first “super-network,” hitting a record of over 34 thousand simultaneous players with an average of over 10 thousand concurrent players. Gaining initial popularity from videos made by CaptainSparklez, the server went on to set a Guinness World Record for their player count. Mineplex’s popularity started to dwindle later and has now become a predominantly Minecraft Bedrock Edition server network due to a partnership with Mojang.
 
 On the 13th of April 2013, the Hypixel server network launched. Hypixel grew beyond the size of Mineplex, and is the definite champion of Minecraft server networks, averaging over 100 thousand concurrent players. Unlike Mineplex, however, Hypixel is only available on Minecraft Java Edition. Hypixel has 4 Guinness World Records, including the one for player count that was previously held by Mineplex.
 
-### Proxy Developments
+## Proxy Developments
 
 Keeping permissions synchronised across multiple servers in a network started to become a more significant problem due to the growing size and scope of networks, leading to the development of a plugin known as BungeePerms on the [3rd of April 2013](https://github.com/weaondara/BungeePerms/commit/c37ffe2ca7044e58f76e07bc754ca75df9aa8aaa) by weaondara. BungeePerms allowed multiple servers on a network to share permission setups, a feature which has since been adopted into other plugins such as LuckPerms.
 

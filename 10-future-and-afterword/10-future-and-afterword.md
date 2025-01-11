@@ -1,4 +1,4 @@
-## The future, and afterword
+# The future, and afterword
 
 Predicting the future is hard, but it can always be fun and interesting to give it a go. I feel that the Paper project, which is already gaining a majority user base, will soon become the de facto Bukkit implementation and therefore have control over API additions. Once this happens, I feel that there will be a strong push to modernise the API, which wouldn’t happen otherwise within Spigot.
 
@@ -6,7 +6,7 @@ I feel that Minecraft Bedrock Edition and Java Edition will continue to gain fea
 
 Overall, I feel that Minecraft will live for another decade with a new generation of players. I just hope Minecraft Java Edition stays along for the ride.
 
-### Contributors
+## Contributors
 
 I'd like to massively thank every single person who helped me with this document. This project was a community effort, and I couldn’t have finished it without you all. Here is a list of key contributors other than myself who have worked on this project:
 

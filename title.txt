@@ -5,6 +5,35 @@ title:
 - type: subtitle
   text: Celebrating the first 10 years of the Minecraft Multiplayer community
 author: Maddy Miller
+contributor:
+- role: contributor
+  text: kashike
+- role: contributor
+  text: KennyTV
+- role: contributor
+  text: zml
+- role: contributor
+  text: Inscrutable
+- role: contributor
+  text: mdcfe
+- role: contributor
+  text: Aurora
+- role: contributor
+  text: Tux
+- role: contributor
+  text: Garanthor
+- role: contributor
+  text: Myokan
+- role: contributor
+  text: Glare
+- role: contributor
+  text: stifflered
+- role: contributor
+  text: mbaxter
+- role: contributor
+  text: DemonWav
+- role: contributor
+  text: LlmDl
 language: en-US
 rights: © 2025 Maddy Miller
 ibooks:

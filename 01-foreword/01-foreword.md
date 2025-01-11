@@ -1,4 +1,4 @@
-## Foreword
+# Foreword
 
 Minecraft is a game that has thrived in part due to its community. I've been a part of the Minecraft server community for well over a decade as of publishing, and I've seen the community grow and change many times over. In 2020, for the tenth anniversary of the launch of multiplayer, I decided to write a comprehensive history of the Minecraft server community. With help from many community members, many of whom have had a large part in shaping the events that I've written about in this book, I've compiled this comprehensive history of the Minecraft server community's first decade.
 

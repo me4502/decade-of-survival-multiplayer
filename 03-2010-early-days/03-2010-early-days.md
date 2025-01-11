@@ -1,30 +1,30 @@
-## 2010 - The Early Days
+# 2010 - The Early Days
 
-### Survival Multiplayer Releases
+## Survival Multiplayer Releases
 
 Minecraft Alpha 1.0.15 was the first post-Classic version of what is now known as Minecraft Java Edition to have support for multiplayer. While 1.0.15 released on the 3rd of August 2010, it wasn’t until one day later on the [4th of August](https://minecraft.wiki/w/Java_Edition_Alpha_v1.0.15) that the server software was released. As Minecraft Classic lacked survival multiplayer, crafting, and many other aspects of what people consider integral to Minecraft, this was considered by many to be the first true version of the game with multiplayer. This release was the start of Minecraft multiplayer as we know it today.
 
-### MinecraftOnline
+## MinecraftOnline
 
 On the same day as the survival multiplayer release, a group of people created a server by the name of [MinecraftOnline](https://minecraftonline.com/). After two days of private testing, the server released on the [6th of August 2010](https://minecraftonline.com/wiki/Timeline#2010). While not technically the oldest server still running, due to NerdNu existing during the Minecraft Classic era, MinecraftOnline launched on modern Minecraft before NerdNu did. Due to this, it is the longest-running server for what we now know as Minecraft Java Edition. As of writing, MinecraftOnline is running CanaryMod on Minecraft 1.7.10.
 
-### LlamaGrief, the first Anti-Grief mod
+## LlamaGrief, the first Anti-Grief mod
 
 Two days after multiplayer launched, on the [6th of August 2010](https://www.minecraftforum.net/forums/support/server-support-and/1891859-llamacraft-finally-compatible-with-1-2_01), a mod by the name of LlamaGrief was released by SuperLlama. This mod was the first anti-grief mod. It allowed server administrators to prevent common grief tactics such as starting fires, spamming lava, or spamming bedrock (commonly referred to as adminium at the time). Unlike today, this was not a plugin that could be installed simply to the server. LlamaGrief was a jar mod, installed by copying the modified game files into the `minecraft_server.jar` file and deleting the Java metadata folder (`META-INF`).
 
-### Server Wrappers
+## Server Wrappers
 
 Before plugins were around to handle kits and broadcast the server rules, a few projects popped up that wrapped the Minecraft server and listened for various lines of text in the chat. The wrappers would then send console commands based on what it saw, such as giving the player a few items for kits or sending the player a message outlining the rules. The earliest wrapper to our knowledge was Czahrien’s wrapper from [early August 2010](https://www.minecraftforum.net/forums/archive/alpha/alpha-survival-multiplayer/821874-czahrien-wrapper-continued-6-0). Afterwards, many others started continuation or spiritual successor projects. Server wrappers in this form did not last too long, as they were quickly made redundant by the existence of plugins. Another noteworthy wrapper that had existed from the [11th of August 2010](https://www.minecraftforum.net/forums/support/server-support-and/1891879-mcadmin-revision-109) was MCAdmin by Doridian.
 
-### Lightstone
+## Lightstone
 
 On the [17th of August 2010](https://github.com/grahamedgecombe/lightstone/commit/40ea853af917928188f1431e2a4b8d2c2f9f078d), Graham Edgecombe started the Lightstone project. Named after what glowstone was commonly known as at the time, this project aimed to create a customisable Minecraft server without using any of Mojang’s code. Due to its highly ambitious nature, it did not last very long. However, many future projects used Lightstone as a base, some of which still exist to this day.
 
-### hMod
+## hMod
 
 On the [3rd of September 2010](https://github.com/traitor/Minecraft-Server-Mod/commit/6315f5aa834a9f0dac9a99d45e4e65af56d1d227), hey0 started work on a project known as Minecraft-Server-Mod, later rebranded as hMod. While hey0 only worked on this for a few months, this project was a significant leap forward in terms of what a Minecraft server could do. hMod was the first project that allowed “plugins” to be loaded onto the Minecraft server, with an API that wouldn’t require substantial changes on each Minecraft version. hMod also provided a small set of inbuilt features to help run a server, such as admin commands, extra configuration options to control how the game behaves, and a permissions system to manage what players can do.
 
-### The hMod Plugins
+## The hMod Plugins
 
 On the [28th of September 2010](https://github.com/EngineHub/WorldEdit/commit/83fea4d00ce1b7a0f456f207a3d5d453fc5f8dd4), sk89q started work on the [WorldEdit](https://enginehub.org/worldedit) project. The goal of WorldEdit was to allow the player to quickly set large numbers of blocks to speed up the building process. While initially very different from what it is now, the project soon took shape and started to resemble what it is today.
 
@@ -46,19 +46,19 @@ On the [15th of December 2010](https://github.com/nijikokun/iConomy/commit/2e17e
 
 At an unknown point during 2010, SuperLlama of LlamaGrief fame also started the hMod plugin Runecraft. This was the first magic plugin for Minecraft, consisting of placing physical “runes” on the ground in the form of specific patterns of Minecraft blocks, akin to a physical crafting table grid. These runes could trigger a tonne of different effects on the game world such as types of protection enchantments to protect the player or moving and replacing blocks to unveil hidden passageways.
 
-### ModloaderMP
+## ModloaderMP
 
 At the time, Risugami’s Modloader was the go-to method of making or installing mods for Minecraft. If you wanted to use those mods with friends, however, things were significantly more complicated. To combat this, ScottyDoesKnow (also known as SDK), released a mod called ModloaderMP on the [24th of November 2010](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272343-1-3-2-sdks-mods-v1-aug-18th-modloadermp-updated). The goal of ModloaderMP was to provide a Modloader-like environment on the server, making it much easier to both make and install server versions of mods made for Modloader. This was the first project that brought mods that add content such as blocks, items, or mobs to multiplayer in a simple way. While this project brought content mods to multiplayer, mod developers still had to put in significantly extra work to maintain the multiplayer version alongside the singleplayer version of their mod. Most mods were still only available in singleplayer.
 
-### 2b2t
+## 2b2t
 
 The infamous anarchy server 2b2t (short for 2builders2tools) launched on the [17th of December 2010](https://en.wikipedia.org/wiki/2b2t). 2b2t is the oldest running anarchy server, a multiplayer game mode with little to no rules that allows players to do almost whatever they want to do. This server has a very in-depth history of its own and has been covered in multiple media outlets. For an extensive timeline of 2b2t, see [here](https://2b2t.miraheze.org/wiki/Timeline). The server is still running to this day and remains the most well-known anarchy server.
 
-### Minecraft Beta
+## Minecraft Beta
 
 Towards the end of 2010, Mojang published the first beta release of Minecraft. Minecraft Beta 1.0 launched on the [20th of December 2010](https://minecraft.wiki/w/Java_Edition_Beta_1.0). This update was a significant improvement for server admins, significantly improving security and making survival gameplay vastly more stable. This update moved the player’s inventory from being controlled by the client to the server, removing the ability to cheat in items with a cheat client. Before this change, enforcing survival gameplay was pretty much impossible.
 
-### The Death of hMod and the Rise of Bukkit
+## The Death of hMod and the Rise of Bukkit
 
 Only a few months after the release of hMod, hey0 stopped working on it, and a new team comprised of many prolific hMod plugin developers took his place. After a short time, the team that took over hMod decided that starting a new project based on the learnings from hMod would be a better idea. On the [21st of December 2010](https://github.com/Bukkit/Bukkit/commit/4e8311a6551e8d7794cff73c57a481251b47459c), work on the Bukkit project officially commenced with a development team made up of EvilSeph, Dinnerbone, Grum, Tahg, and sk89q.
 
