@@ -1,4 +1,4 @@
-## Foreword
+# Foreword
 
 Minecraft is a game that has thrived in part due to its community. I've
 been a part of the Minecraft server community for well over a decade as
@@ -29,9 +29,9 @@ you can verify is incorrect, please [let me
 know](https://madelinemiller.dev/contact/) and I'll make sure to get it
 fixed.
 
-## 2009 - Prehistory
+# 2009 - Prehistory
 
-### Minecraft Classic
+## Minecraft Classic
 
 Minecraft wouldn't be where it is today without the version that came
 beforehand. Minecraft Classic, which was known at the time as Minecraft
@@ -45,7 +45,7 @@ small following. Two of Minecraft's most well-known features, crafting
 and survival mode, were absent at this time with gameplay vaguely like a
 heavily simplified modern creative mode.
 
-### NerdNu
+## NerdNu
 
 Out of everything that happened during the Minecraft Classic era, one
 notable server launched that is still online to this day.
@@ -54,7 +54,7 @@ subreddit's public Minecraft server with `c.nerd.nu`, and later
 `s.nerd.nu`. This server first launched on the 10th of June 2009.
 Therefore, this is the oldest Minecraft server to be still running.
 
-### WikiVG and #mcdevs
+## WikiVG and #mcdevs
 
 With a growing interest in Minecraft server modding, a few community
 members started a project to document the technical aspects of the game.
@@ -70,9 +70,9 @@ The IRC channel also underwent a migration to
 WikiVG project is the go-to place for technical information about
 Minecraft.
 
-## 2010 - The Early Days
+# 2010 - The Early Days
 
-### Survival Multiplayer Releases
+## Survival Multiplayer Releases
 
 Minecraft Alpha 1.0.15 was the first post-Classic version of what is now
 known as Minecraft Java Edition to have support for multiplayer. While
@@ -85,7 +85,7 @@ integral to Minecraft, this was considered by many to be the first true
 version of the game with multiplayer. This release was the start of
 Minecraft multiplayer as we know it today.
 
-### MinecraftOnline
+## MinecraftOnline
 
 On the same day as the survival multiplayer release, a group of people
 created a server by the name of
@@ -98,7 +98,7 @@ Minecraft before NerdNu did. Due to this, it is the longest-running
 server for what we now know as Minecraft Java Edition. As of writing,
 MinecraftOnline is running CanaryMod on Minecraft 1.7.10.
 
-### LlamaGrief, the first Anti-Grief mod
+## LlamaGrief, the first Anti-Grief mod
 
 Two days after multiplayer launched, on the [6th of August
 2010](https://www.minecraftforum.net/forums/support/server-support-and/1891859-llamacraft-finally-compatible-with-1-2_01),
@@ -111,7 +111,7 @@ LlamaGrief was a jar mod, installed by copying the modified game files
 into the `minecraft_server.jar` file and deleting the Java metadata
 folder (`META-INF`).
 
-### Server Wrappers
+## Server Wrappers
 
 Before plugins were around to handle kits and broadcast the server
 rules, a few projects popped up that wrapped the Minecraft server and
@@ -128,7 +128,7 @@ noteworthy wrapper that had existed from the [11th of August
 2010](https://www.minecraftforum.net/forums/support/server-support-and/1891879-mcadmin-revision-109)
 was MCAdmin by Doridian.
 
-### Lightstone
+## Lightstone
 
 On the [17th of August
 2010](https://github.com/grahamedgecombe/lightstone/commit/40ea853af917928188f1431e2a4b8d2c2f9f078d),
@@ -139,7 +139,7 @@ code. Due to its highly ambitious nature, it did not last very long.
 However, many future projects used Lightstone as a base, some of which
 still exist to this day.
 
-### hMod
+## hMod
 
 On the [3rd of September
 2010](https://github.com/traitor/Minecraft-Server-Mod/commit/6315f5aa834a9f0dac9a99d45e4e65af56d1d227),
@@ -153,7 +153,7 @@ small set of inbuilt features to help run a server, such as admin
 commands, extra configuration options to control how the game behaves,
 and a permissions system to manage what players can do.
 
-### The hMod Plugins
+## The hMod Plugins
 
 On the [28th of September
 2010](https://github.com/EngineHub/WorldEdit/commit/83fea4d00ce1b7a0f456f207a3d5d453fc5f8dd4),
@@ -248,7 +248,7 @@ effects on the game world such as types of protection enchantments to
 protect the player or moving and replacing blocks to unveil hidden
 passageways.
 
-### ModloaderMP
+## ModloaderMP
 
 At the time, Risugami's Modloader was the go-to method of making or
 installing mods for Minecraft. If you wanted to use those mods with
@@ -265,7 +265,7 @@ multiplayer, mod developers still had to put in significantly extra work
 to maintain the multiplayer version alongside the singleplayer version
 of their mod. Most mods were still only available in singleplayer.
 
-### 2b2t
+## 2b2t
 
 The infamous anarchy server 2b2t (short for 2builders2tools) launched on
 the [17th of December 2010](https://en.wikipedia.org/wiki/2b2t). 2b2t is
@@ -276,7 +276,7 @@ in multiple media outlets. For an extensive timeline of 2b2t, see
 [here](https://2b2t.miraheze.org/wiki/Timeline). The server is still
 running to this day and remains the most well-known anarchy server.
 
-### Minecraft Beta
+## Minecraft Beta
 
 Towards the end of 2010, Mojang published the first beta release of
 Minecraft. Minecraft Beta 1.0 launched on the [20th of December
@@ -288,7 +288,7 @@ server, removing the ability to cheat in items with a cheat client.
 Before this change, enforcing survival gameplay was pretty much
 impossible.
 
-### The Death of hMod and the Rise of Bukkit
+## The Death of hMod and the Rise of Bukkit
 
 Only a few months after the release of hMod, hey0 stopped working on it,
 and a new team comprised of many prolific hMod plugin developers took
@@ -307,9 +307,9 @@ update it themselves as a fork. This was the first split in the server
 community, albeit a minor one. Most servers and developers followed the
 Bukkit project into 2011.
 
-## 2011 - The Golden Era of Bukkit
+# 2011 - The Golden Era of Bukkit
 
-### The launch of Bukkit
+## The launch of Bukkit
 
 As 2011 kicked off, the Bukkit project was officially released with an
 announcement thread on the [Minecraft Forums on the 1st of
@@ -369,7 +369,7 @@ Bukkit contributors from requiring enforcement. To this day, the theory
 that all Bukkit plugins must be licensed under the GPL has never been
 tested in court.
 
-### CanaryMod
+## CanaryMod
 
 While most of the community switched to Bukkit, there was still a core
 group that remained faithful to the hMod platform. On the [3rd of March
@@ -383,7 +383,7 @@ the original plugins but updated by different authors. The primary user
 of CanaryMod was the MinecraftOnline server, due to having started
 during the hMod era.
 
-### Dawn of the Proxies
+## Dawn of the Proxies
 
 On the [9th of
 January](https://github.com/Raphfrk/CraftProxy/commit/a36c2a552efd299044f2af28a7a4fa9a946d914a),
@@ -404,7 +404,7 @@ performance and added new features, such as protocol compression. Both
 of these proxies still behaved in a similar manner to CraftProxy
 however, having a different purpose to modern proxies.
 
-### Griefer YouTube
+## Griefer YouTube
 
 As with any multiplayer video game, Minecraft servers were vulnerable to
 griefing, where someone enjoys intentionally annoying or disrupting
@@ -419,7 +419,7 @@ community and inspired a wave of griefing YouTube channels and cheat
 client developers. They also sparked a feud with Reddit and became
 infamous for repeatedly griefing the NerdNu series of servers.
 
-### The Early Bukkit Plugins
+## The Early Bukkit Plugins
 
 Right after Bukkit's launch, plugin developers were hard at work on
 creating new Bukkit plugins. Most of the large hMod plugins were quickly
@@ -571,7 +571,7 @@ to Tebex. The Bukkit plugin itself was rewritten by Tux and is now known
 as BuycraftX, paying homage to the historical roots of the service as
 well as marking a new era of the plugin.
 
-### Server Lists
+## Server Lists
 
 Due to the growing surge in the number of Minecraft servers coming into
 2011, several sites started to pop up to make it easier for players to
@@ -620,7 +620,7 @@ the introduction of the query protocol to Minecraft 1.0, and the server
 list ping packet to Minecraft 1.3, integrating this functionality
 directly into Minecraft itself.
 
-### Economy Servers
+## Economy Servers
 
 Due to the capabilities provided by the wide selection of economy
 plugins and those that allowed charging in-game currency, servers were
@@ -637,7 +637,7 @@ The largest and longest-running Economy server was EcoCityCraft, which
 was launched on the 4th of April 2011 and is still running to this day.
 This server heavily influenced the economy game style.
 
-#### Prison Servers
+### Prison Servers
 
 The Economy server style also had numerous off-shoots, with the Prison
 style being one of the largest. Prison servers were styled around a
@@ -650,7 +650,7 @@ apply to be guards and confiscate contraband items, and the ability for
 players to buy a space they could build in from a prison cell to a large
 plot of land.
 
-### BukkitContrib
+## BukkitContrib
 
 Afforess started the BukkitContrib project on the [1st of May
 2011](https://github.com/Nightgunner5/BukkitContrib/commit/eb22175c782c4dcae59908b59f12fe432d83d594).
@@ -674,7 +674,7 @@ lahwran planned to make a competitor to Spoutcraft. Designs were made
 for various systems, but the project never went anywhere. A few of the
 designed systems ended up making their way into the WorldEdit API.
 
-### Return of the Lightstone
+## Return of the Lightstone
 
 SpaceManiac started work on continuing Lightstone on the [4th of June
 2011](https://github.com/GlowstoneMC/Glowstone/commit/6fe0dfbea37e0f9478de89c3b91b554bf4358b17),
@@ -684,7 +684,7 @@ for the Lightstone block which the original project was named after.
 Glowstone continued the goal of achieving a server without any Mojang
 code, and the project is still alive today.
 
-#### Spout
+### Spout
 
 A few months after the Glowstone project started up again, the
 Spoutcraft team abandoned Spoutcraft in favour of writing a custom
@@ -703,7 +703,7 @@ game server, using a custom-written server in C++. Cuberite servers are
 mostly aimed at minigames that don't require full conformance with
 Minecraft gameplay standards, and has its own API for making plugins.
 
-### MinecraftForge
+## MinecraftForge
 
 On [July 12th
 2011](https://github.com/MinecraftForge/MinecraftForge/commit/999ef3817a7ddfd21043a69f8af5dcf2c028b945),
@@ -720,14 +720,14 @@ Bukkit plugins, the modded Minecraft community had very different needs,
 making this less of a problem. MinecraftForge is still around today, run
 by LexManos and the rest of the MinecraftForge team.
 
-### Bukkit Matures
+## Bukkit Matures
 
 As the Bukkit project grew throughout 2011, a few issues had started to
 creep up. Permissions management in the Bukkit ecosystem was non-ideal,
 and the forums were outgrowing their usefulness as a place to download
 plugins.
 
-#### SuperPerms
+### SuperPerms
 
 Dinnerbone proposed a solution, a system in Bukkit for permissions that
 was colloquially known as SuperPerms (or sometimes DinnerPerms,
@@ -752,7 +752,7 @@ and launched on the [17th of
 July](https://github.com/Bukkit/Bukkit/commit/914da8e887deaadb57be339aa2dbb78eca2742a4)
 alongside SuperPerms inclusion in Bukkit.
 
-#### BukkitDev
+### BukkitDev
 
 The Bukkit team still had to fix the growing problem with the plugin
 releases section of the forums, especially as their Fill plugin
@@ -767,9 +767,9 @@ name registration was transferred to Curse. Over time, all active
 plugins migrated over from the Bukkit forums to BukkitDev, and the
 plugin releases section of the forums was locked.
 
-## 2012 - The introduction of Forks and Other Cutlery
+# 2012 - The introduction of Forks and Other Cutlery
 
-### Admincraft
+## Admincraft
 
 On the 12th of January 2012,
 [/u/theheyway](https://www.reddit.com/user/theheyway) created a new
@@ -781,7 +781,7 @@ development. The admincraft community has since grown also to include a
 Discord and is one of the most widely known server administrator
 communities.
 
-### Shotbow Network
+## Shotbow Network
 
 The Shotbow Minecraft server network was formed during February 2012 and
 is recognised as the oldest Minecraft server network. Not only did
@@ -791,7 +791,7 @@ minigame. MineZ, based on the DayZ mod for Arma 2, quickly became one of
 the most popular Minecraft game modes of all time, even getting
 recognition outside of the Minecraft multiplayer community.
 
-### Bukkit x Mojang
+## Bukkit x Mojang
 
 In [late 2011](https://bukkit.org/threads/bukkit-visits-mojang.51035/),
 the Bukkit team was invited to Mojang for discussions around the future
@@ -819,13 +819,13 @@ April](https://bukkit.org/threads/bukkit-project-update-slow-development-additio
 Amaranth joined as well, with mbaxter and evilmidget38 to follow after
 that.
 
-### Increments and Decrements of CraftBukkit
+## Increments and Decrements of CraftBukkit
 
 In May of 2012, a new trend emerged where developers were publishing
 modified versions of the CraftBukkit software, and the Bukkit team was
 having trouble keeping them out of the forums.
 
-#### CraftBukkit++
+### CraftBukkit++
 
 Afforess, working on behalf of HeroCraft, started work on a modified
 version of CraftBukkit that aimed to improve server performance
@@ -840,7 +840,7 @@ behaviour. After this point, the Bukkit team opted to remain faithful to
 vanilla behaviour rather than implement performance improvements that
 would require deviating from them.
 
-#### CraftBukkit--
+### CraftBukkit--
 
 Very shortly after CraftBukkit++ was released, the project was
 abandoned. EcoCityCraft wanted to keep the project alive and had md_5
@@ -858,7 +858,7 @@ the official Minecraft modding API, known as
 [Fondue](https://github.com/BukkitDevTeam/Fondue). As the modding API
 never materialised, neither did md_5's project.
 
-### Plots
+## Plots
 
 On the [2nd of June
 2012](https://bukkit.org/threads/wgen-sec-plotme-v0-9-plot-generation-and-protection-1-3-r1-0.78840/),
@@ -867,7 +867,7 @@ generator plugin, inspiring what is now the basis of almost all creative
 servers. Initially, plot worlds found their use as protected building
 space in other game modes, such as prison.
 
-#### OP Prison
+### OP Prison
 
 Alongside the ability to create plot worlds, Prison servers underwent
 another evolution. Prison servers were generally viewed as very "grindy"
@@ -882,7 +882,7 @@ process further. These servers usually were more aimed at aspects such
 as PvP, plot building, or economy, with the Prison theme and cell blocks
 more acting as central hubs for players to mine and socialise.
 
-### Proxy Time
+## Proxy Time
 
 md_5 and Codename_B set out to work on a new proxy software for the
 Minecraft server. There was a growing demand for chaining multiple
@@ -909,9 +909,9 @@ bands. BungeeCord was the first significant public server proxy that
 allowed combining individual servers into a single Minecraft network and
 is still used to this day.
 
-## 2013 - Rise of the Network
+# 2013 - Rise of the Network
 
-### Spigot
+## Spigot
 
 On the [15th of January
 2013](https://github.com/PaperMC/Paper/commit/622229778428e822be7c97d9c5f08ddb6281d97f),
@@ -925,7 +925,7 @@ released due to new BukkitDev rules against plugins that couldn't run on
 CraftBukkit. Since launch, Spigot has remained a major player in the
 server software space.
 
-### Super Networks
+## Super Networks
 
 Mineplex was a server network that launched on the [24th of January
 2013](https://en.wikipedia.org/wiki/Mineplex). It was the first
@@ -944,7 +944,7 @@ players. Unlike Mineplex, however, Hypixel is only available on
 Minecraft Java Edition. Hypixel has 4 Guinness World Records, including
 the one for player count that was previously held by Mineplex.
 
-### Proxy Developments
+## Proxy Developments
 
 Keeping permissions synchronised across multiple servers in a network
 started to become a more significant problem due to the growing size and
@@ -970,9 +970,9 @@ starting to face. Like Minecraft servers, proxies also have limitations
 in the number of players they support. Due to this, scaling the number
 of proxies in use became a common practice on larger networks.
 
-## 2014 - Bukkit is dead, long live Sponge...Spigot?
+# 2014 - Bukkit is dead, long live Sponge...Spigot?
 
-### Paid Plugins and Monetisation
+## Paid Plugins and Monetisation
 
 On the [16th of April
 2014](https://www.spigotmc.org/threads/did-you-know-google-authenticator-premium-resources.16306/),
@@ -996,7 +996,7 @@ websites, that have been riddled with controversy and malware outbreaks.
 There have also been many controversial implementations of DRM by plugin
 developers.
 
-### PaperSpigot
+## PaperSpigot
 
 The PaperSpigot project was started by gsand and Z750 on the [23rd of
 June
@@ -1009,7 +1009,7 @@ significant performance improvements into the Minecraft server, going
 far beyond that of Spigot. They also strived to be much more community
 oriented, and more open to contributions.
 
-### EngineHub
+## EngineHub
 
 On the 5th of July 2014, sk89q created an organisation known as
 [EngineHub](https://enginehub.org/). All of his plugins and libraries
@@ -1021,7 +1021,7 @@ allowed sk89q to step back from the projects. EngineHub's software is
 now mainly developed by [Me4502](https://madelinemiller.dev/contact/),
 octylFractal, and wizjany.
 
-### The Death of Bukkit
+## The Death of Bukkit
 
 On the 21st of August 2014, EvilSeph announced that the Bukkit project
 was shutting down. He cited reasons such as the legal grey area that the
@@ -1047,15 +1047,15 @@ Consequently Dinnerbone and Grum were unable to update Bukkit, as there
 were legal implications of doing so. At this point, the Bukkit project
 was officially dead.
 
-### From the Ashes, #nextstep rises
+## From the Ashes, #nextstep rises
 
 Amid the panic, many key members of the Minecraft community banded
-together to discuss what should happen now that Bukkit is gone. A plan
-and time were set for the meeting, and a document distributed to the
-community. The discussions took place between the 5th and 7th of
-September and eventually led to a new project forming under the name
-Sponge. The project leads for the Sponge project were Blood, Zidane, and
-sk89q.
+together to discuss what should happen now that Bukkit is gone in an IRC
+channel called `#nextstep`. A plan and time were set for the meeting,
+and a document distributed to the community. The discussions took place
+between the 5th and 7th of September and eventually led to a new project
+forming under the name Sponge. The project leads for the Sponge project
+were Blood, Zidane, and sk89q.
 
 Initial goals for the Sponge API were to build a modern API that was
 more in line with the way Minecraft worked at the time compared to
@@ -1083,9 +1083,9 @@ was the first time that the Spigot team had updated CraftBukkit
 themselves and marked a shift that led to Spigot gaining market
 dominance as the de facto implementation of Bukkit.
 
-## 2015 to 2017 - The Era of Stagnation
+# 2015 to 2017 - The Era of Stagnation
 
-### Essentials reborn
+## Essentials reborn
 
 During the DMCA debacle, the Essentials project had been abandoned for
 Bukkit. There had been [plans for Me4502 to continue the Essentials
@@ -1098,7 +1098,7 @@ however, drtshock started the EssentialsX project as a continuation of
 Essentials for Bukkit. EssentialsX quickly filled the void Essentials
 left and became almost as widely used.
 
-### SpongeVanilla
+## SpongeVanilla
 
 In early 2015 the Granite project continued to grow, and gained many
 fans from within the Sponge staff. After many discussions between the
@@ -1110,7 +1110,7 @@ Granite's codebase had officially become SpongeVanilla. To make
 SpongeVanilla and SpongeForge more similar, they were set up to share a
 majority codebase under the name SpongeCommon.
 
-### DragonProxy
+## DragonProxy
 
 DragonProxy was an early attempt by DefinitelyEvil to allow players of
 Minecraft Bedrock Edition to connect to Minecraft Java Edition
@@ -1121,7 +1121,7 @@ While the project worked as a proof of concept, numerous issues
 prevented it from being used on any serious server. Due to this, the
 project was abandoned relatively quickly.
 
-### Waterfall
+## Waterfall
 
 Due to some disagreements and issues surrounding the BungeeCord project,
 a fork under the name Waterfall was made by minecrafter on the [25th of
@@ -1130,7 +1130,7 @@ January
 Waterfall aimed to improve stability, performance, compatibility with
 non-Spigot servers, and be more open to community contributions.
 
-### EULA Enforcement
+## EULA Enforcement
 
 Around the [24th of February
 2016](https://www.reddit.com/r/Minecraft/comments/47bt3r/mojang_are_starting_to_crack_down_on_servers/),
@@ -1144,7 +1144,7 @@ the EULA, while a few others used workarounds to prevent themselves from
 being blacklisted. Overall, this majorly changed how profitable running
 a Minecraft server could be.
 
-### The Combat Update and Protocol Compatibility
+## The Combat Update and Protocol Compatibility
 
 Minecraft 1.9 was released on the [29th of February
 2016](https://minecraft.wiki/w/wiki/Java_Edition_1.9). This release,
@@ -1170,7 +1170,7 @@ would continue using ViaVersion for the considerable future, rather than
 ever updating. To this day, there are still some PvP-oriented servers
 that have not updated past Minecraft 1.8.
 
-### LuckPerms
+## LuckPerms
 
 On the [21st of May
 2016](https://github.com/LuckPerms/LuckPerms/commit/dc1e06ebcef4886568af1378ffeff406a5408428),
@@ -1182,9 +1182,9 @@ interface to set up permissions from the browser. To this day, LuckPerms
 is used by a vast majority of servers due to its ease of use and
 versatility.
 
-## 2018 to 2020 - The Era of Change
+# 2018 to 2020 - The Era of Change
 
-### Minecraft 1.13, The Flattening
+## Minecraft 1.13, The Flattening
 
 Minecraft 1.13 released on the [18th of July
 2018](https://minecraft.wiki/w/Java_Edition_1.13). Like Minecraft 1.9,
@@ -1197,7 +1197,7 @@ substantially. Unlike Minecraft 1.9, this divide in the community was
 caused by server admins rather than players. To this day, some servers
 are still on Minecraft 1.12.
 
-### Velocity and Waterfall
+## Velocity and Waterfall
 
 Frustrated by how limited Waterfall was due to the need to retain
 BungeeCord compatibility, Tux, the original creator of Waterfall,
@@ -1210,7 +1210,7 @@ project to Paper on the [29th of
 September](https://discordapp.com/channels/289587909051416579/492517675680006144/495706929306271764),
 allowing them to maintain it.
 
-### Fabric
+## Fabric
 
 Towards the end of 2018, the Fabric project officially started. Built to
 fill the gap left by Forge's slow update, Fabric aimed to be a much
@@ -1221,7 +1221,7 @@ Paper, or for servers that want to support Minecraft snapshot releases.
 Fabric is also a very community-orientated process, using community
 tools like Sponge's Mixin framework.
 
-### Bedrock Compatibility, Take Two
+## Bedrock Compatibility, Take Two
 
 Due to the issues with the earlier attempt at a Bedrock compatibility
 layer proxy, DragonProxy, another developer made an attempt to rewrite
@@ -1237,7 +1237,7 @@ to absorb DragonProxy and became the community standard for Bedrock
 compatibility proxies. While it works very well, there are still some
 minor issues due to the way Bedrock and Java Edition behave differently.
 
-### Official Obfuscation Mappings
+## Official Obfuscation Mappings
 
 To make modding easier, Mojang announced on the 4th of September 2019
 that they would be releasing official obfuscation mappings alongside
@@ -1250,7 +1250,7 @@ theory, once all legal issues are resolved, projects such as Yarn
 (Fabric) and MCP (Forge) would no longer need to create their own
 mappings.
 
-### Revised Commercial Usage Guidelines
+## Revised Commercial Usage Guidelines
 
 On the 17th of April 2020, Mojang revised the commercial usage
 guidelines of the game to allow servers to monetise more than just
@@ -1259,7 +1259,7 @@ when enforcement of the EULA commenced. The new restrictions allow
 selling packages that impact gameplay, as long as they do not give the
 player a "competitive gameplay advantage".
 
-## The future, and afterword
+# The future, and afterword
 
 Predicting the future is hard, but it can always be fun and interesting
 to give it a go. I feel that the Paper project, which is already gaining
@@ -1278,7 +1278,7 @@ Overall, I feel that Minecraft will live for another decade with a new
 generation of players. I just hope Minecraft Java Edition stays along
 for the ride.
 
-### Contributors
+## Contributors
 
 I'd like to massively thank every single person who helped me with this
 document. This project was a community effort, and I couldn't have

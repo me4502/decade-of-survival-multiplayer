@@ -1,9 +1,9 @@
 ---
 title: 
 - type: main
-  text: A Decade of Minecraft Survival Multiplayer
+  text: A Decade of Survival Multiplayer
 - type: subtitle
-  text: Celebrating the first 10 years of the Minecraft Multiplayer community
+  text: Celebrating the first 10 years of the Minecraft multiplayer community
 author: Maddy Miller
 contributor:
 - role: contributor
@@ -36,6 +36,9 @@ contributor:
   text: LlmDl
 language: en-US
 rights: © 2025 Maddy Miller
+identifier:
+- scheme: ISBN-13
+  text: 978-0-646-71059-4
 ibooks:
   version: 1.0.0
 ...
