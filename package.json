@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "generate": "pandoc --css epub.css -o decade.epub title.txt ./*/*.md",
+    "generate": "pandoc --epub-cover-image cover.png --css epub.css -o decade.epub title.txt ./*/*.md",
     "readme": "pandoc -o README.md title.txt ./*/*.md"
   }
 }

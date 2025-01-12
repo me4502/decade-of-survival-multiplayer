@@ -1,3 +1,8 @@
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH
+MOJANG OR MICROSOFT.
+
+ISBN: 978-0-646-71059-4
+
 # Foreword
 
 Minecraft is a game that has thrived in part due to its community. I've
